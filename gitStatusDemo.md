@@ -1,1 +1,1 @@
-File for gitStatus Demo
+This is a new line
